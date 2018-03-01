@@ -1,5 +1,9 @@
 # Papers to read
 
+## Data Structures
+
+* [An Experimental Study of Bitmap Compression vs. Inverted List Compression](http://db.ucsd.edu/wp-content/uploads/2017/03/sidm338-wangA.pdf)
+
 ## Compiler related
 * [Yacc is dead](https://arxiv.org/pdf/1010.5023v1.pdf) 2010
 
