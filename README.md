@@ -11,6 +11,10 @@
 ## Storage
 
 * [Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions](https://www.ssrc.ucsc.edu/Papers/plank-fast13.pdf)
+* Reed-Solomon Error Coding
+  * https://innovation.vivint.com/introduction-to-reed-solomon-bc264d0794f8
+  * https://www.youtube.com/watch?v=jgO09opx56o
+  
 
 ## FPGA + String Matching
 * [Efficient and High-Speed FPGA-based String Matching for Packet Inspection](http://www.cse.chalmers.se/~sourdis/MS_thesis.pdf)
