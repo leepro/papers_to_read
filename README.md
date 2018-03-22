@@ -14,6 +14,7 @@
 * Reed-Solomon Error Coding
   * https://innovation.vivint.com/introduction-to-reed-solomon-bc264d0794f8
   * https://www.youtube.com/watch?v=jgO09opx56o
+  * https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm
   
 
 ## FPGA + String Matching
