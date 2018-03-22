@@ -8,6 +8,10 @@
 ## Compiler related
 * [Yacc is dead](https://arxiv.org/pdf/1010.5023v1.pdf) 2010
 
+## Storage
+
+* [Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions](https://www.ssrc.ucsc.edu/Papers/plank-fast13.pdf)
+
 ## FPGA + String Matching
 * [Efficient and High-Speed FPGA-based String Matching for Packet Inspection](http://www.cse.chalmers.se/~sourdis/MS_thesis.pdf)
 * [PERG-Rx: An FPGA-based Pattern-Matching Engine with Limited Regular Expression Support for Large Pattern Databases](https://www.ece.ubc.ca/~lemieux/publications/ho-masc2009.pdf)
