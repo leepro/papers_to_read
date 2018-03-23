@@ -19,7 +19,11 @@
   * [A tale of two erasure codes in HDFS](https://www.youtube.com/watch?v=KXd5U5fNQ6s)
   * [Native Erasure Coding Support Inside HDFS](https://www.youtube.com/watch?v=LfuvM2s_DxQ)
   * [Inside the Magic Pocket (Dropbox)](https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/)
-  
+  * [Erasure Coding in Windows Azure Storage](https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang)  
+  * [Does erasure coding have a role to play in my data center?](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/05/paper.pdf)
+  * [Compare Cost and Performance of Replication and Erasure Coding](http://www.hitachi.com/rev/pdf/2014/r2014_july.pdf)
+  * [High Availability in DHTs: Erasure Coding vs. Replicatio](http://pmg.csail.mit.edu/papers/rodrigo_IPTPS05.pdf)
+  * [A Performance Comparison of Open-Source Erasure Coding Libraries for Storage Applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.3585&rep=rep1&type=pdf)
 
 ## FPGA + String Matching
 * [Efficient and High-Speed FPGA-based String Matching for Packet Inspection](http://www.cse.chalmers.se/~sourdis/MS_thesis.pdf)
