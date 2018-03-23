@@ -24,8 +24,7 @@
   * [Compare Cost and Performance of Replication and Erasure Coding](http://www.hitachi.com/rev/pdf/2014/r2014_july.pdf)
   * [High Availability in DHTs: Erasure Coding vs. Replicatio](http://pmg.csail.mit.edu/papers/rodrigo_IPTPS05.pdf)
   * [A Performance Comparison of Open-Source Erasure Coding Libraries for Storage Applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.3585&rep=rep1&type=pdf)
-  * [Applied Erasure Coding in Networks and
-Distributed Storage](https://arxiv.org/pdf/1803.01358.pdf)
+  * [Applied Erasure Coding in Networks and Distributed Storage](https://arxiv.org/pdf/1803.01358.pdf)
 
 ## FPGA + String Matching
 * [Efficient and High-Speed FPGA-based String Matching for Packet Inspection](http://www.cse.chalmers.se/~sourdis/MS_thesis.pdf)
