@@ -13,8 +13,12 @@
 * [Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions](https://www.ssrc.ucsc.edu/Papers/plank-fast13.pdf)
 * Reed-Solomon Error Coding
   * https://innovation.vivint.com/introduction-to-reed-solomon-bc264d0794f8
-  * https://www.youtube.com/watch?v=jgO09opx56o
-  * https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm
+  * [Reed Solomon Tutorial: Backblaze Reed Solomon Encoding Example Case](https://www.youtube.com/watch?v=jgO09opx56o)
+  * [Berlekamp Welch Algorithm](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
+  * [Taking the Mystery out of Erasure Codes: A Swift Implementation](https://www.youtube.com/watch?v=igDANtL1jRU)
+  * [A tale of two erasure codes in HDFS](https://www.youtube.com/watch?v=KXd5U5fNQ6s)
+  * [Native Erasure Coding Support Inside HDFS](https://www.youtube.com/watch?v=LfuvM2s_DxQ)
+  * [Inside the Magic Pocket (Dropbox)](https://blogs.dropbox.com/tech/2016/05/inside-the-magic-pocket/)
   
 
 ## FPGA + String Matching
