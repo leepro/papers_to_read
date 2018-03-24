@@ -26,7 +26,9 @@
   * [A Performance Comparison of Open-Source Erasure Coding Libraries for Storage Applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.3585&rep=rep1&type=pdf)
   * [Applied Erasure Coding in Networks and Distributed Storage](https://arxiv.org/pdf/1803.01358.pdf)
   * [Erasure Codes for Storage Systems: A Brief Primer](https://www.usenix.org/system/files/login/articles/10_plank-online.pdf)
-
+  * [Coding for Modern Distributed Storage Systems III](https://www.youtube.com/watch?v=obXTLCTBGuU)
+  * [Erasure Codes for Big Data over Hadoop and Large-scale Sparse PCA for Twitter Analysis](https://www.youtube.com/watch?v=fyOz5x4qZfU)
+  
 ## FPGA + String Matching
 * [Efficient and High-Speed FPGA-based String Matching for Packet Inspection](http://www.cse.chalmers.se/~sourdis/MS_thesis.pdf)
 * [PERG-Rx: An FPGA-based Pattern-Matching Engine with Limited Regular Expression Support for Large Pattern Databases](https://www.ece.ubc.ca/~lemieux/publications/ho-masc2009.pdf)
